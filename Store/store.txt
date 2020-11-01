@@ -1,1 +1,1 @@
-Processed images will be loaded here
+Processed images will be added here 
